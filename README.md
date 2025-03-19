@@ -3,10 +3,10 @@
 A simple and interactive weather application built with **React.js** that provides real-time weather updates for any location using an API.
 
 ## 🚀 Live Demo  
-[Click here to view the live demo](your-live-demo-link)  
+[Click here to view the live demo](https://vaishnav-ravindran.github.io/Weather-App/)  
 
 ## 📷 Preview  
-![Weather App Preview](your-image-link)  
+![Weather App Preview](https://i.ibb.co/cK3f1jMj/Screenshot-20250319-180316-Chrome.png)  
 
 ## 🛠️ Features  
 - 🌍 Search weather by city name  
